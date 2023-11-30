@@ -1,1 +1,1 @@
-console.log(2+55);
+console.log(2+20);
